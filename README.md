@@ -5,6 +5,7 @@ This is a simple Python web scraper that can be used to extract data from websit
 ## Installation
 
 1. **Virtual Environment** - This keeps your dependencies for each project separate and organized.
+
 If you've not already installed virtualenv
 ```
 pip install virtualenv
