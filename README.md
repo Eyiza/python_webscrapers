@@ -37,9 +37,10 @@ The program scrapes the following information for each book:
 - Average Rating
 - Number of Ratings
 - Product URL <br>
-Once the book information is scraped, it is saved to a [CSV file](./book_info.csv) using the csv library and also to a [json file](./book_info.json) using the json library. <br>
-To use the scraper, you can also modify the `scraper.py` file to extract the data that you need. The file contains a `scrape()` function that you can modify to extract the data that you need.
 
+Once the book information is scraped, it is saved to a [CSV file](./book_info.csv) using the csv library and also to a [json file](./book_info.json) using the json library.
+
+To use the scraper, you can also modify the `scraper.py` file to extract the data that you need. The file contains a `scrape()` function that you can modify to extract the data that you need.
 For example, if you wanted to extract the title of a webpage, you could modify the scrape() function as follows:
 
 ```
