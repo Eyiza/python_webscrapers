@@ -1,5 +1,4 @@
-# Python_webscrapers
-
+# Web Scraping in Python
 This is a simple Python web scraper that can be used to extract data from websites. The scraper uses the [`requests`](https://pypi.org/project/requests/) library to make HTTP requests and the [`BeautifulSoup`](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) library to parse HTML.
 
 
@@ -37,9 +36,8 @@ The program scrapes the following information for each book:
 - Price
 - Average Rating
 - Number of Ratings
-- Product URL
-Once the book information is scraped, it is saved to a [CSV file](./book_info.csv) using the csv library and also to a [json file](./book_info.json) using the json library.
-<br>
+- Product URL <br>
+Once the book information is scraped, it is saved to a [CSV file](./book_info.csv) using the csv library and also to a [json file](./book_info.json) using the json library. <br>
 To use the scraper, you can also modify the `scraper.py` file to extract the data that you need. The file contains a `scrape()` function that you can modify to extract the data that you need.
 
 For example, if you wanted to extract the title of a webpage, you could modify the scrape() function as follows:
