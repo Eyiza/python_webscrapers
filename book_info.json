@@ -1,0 +1,1085 @@
+{
+    "books": [
+        {
+            "author": "J. K. Rowling",
+            "number_of_ratings": "72",
+            "price": "$34.65",
+            "product_url": "https://www.bookdepository.com/Harry-Potter-Cursed-Child-Parts-I-II-J-K-Rowling/9780751565355",
+            "rating": "3.86",
+            "title": "Harry Potter and the Cursed Child - Parts I & II"
+        },
+        {
+            "author": "Taylor Jenkins Reid",
+            "number_of_ratings": "964371",
+            "price": "$22.29",
+            "product_url": "https://www.bookdepository.com/Daisy-Jones-Six-Taylor-Jenkins-Reid/9781787462144",
+            "rating": "4.24",
+            "title": "Daisy Jones and The Six"
+        },
+        {
+            "author": "Colleen Hoover",
+            "number_of_ratings": "2290192",
+            "price": "$19.78",
+            "product_url": "https://www.bookdepository.com/It-Ends-With-Us-most-heartbreaking-novel-youll-ever-read-Colleen-Hoover/9781471156267",
+            "rating": "4.29",
+            "title": "It Ends With Us: The most heartbreaking novel you'll ever read"
+        },
+        {
+            "author": "A.E. Waite",
+            "number_of_ratings": "207",
+            "price": "$24.04",
+            "product_url": "https://www.bookdepository.com/Original-Rider-Waite-Tarot-Deck-E-Waite/9780712670579",
+            "rating": "4.28",
+            "title": "The Original Rider Waite Tarot Deck"
+        },
+        {
+            "author": "Mo Xiang Tong Xiu",
+            "number_of_ratings": "13727",
+            "price": "$33.10",
+            "product_url": "https://www.bookdepository.com/Heaven-Officials-Blessing-Mo-Xiang-Tong-Xiu/9781648279171",
+            "rating": "4.68",
+            "title": "Heaven Official's Blessing"
+        },
+        {
+            "author": "Tatsuki Fujimoto",
+            "number_of_ratings": "52540",
+            "price": "$17.78",
+            "product_url": "https://www.bookdepository.com/Chainsaw-Man-Vol-1-Tatsuki-Fujimoto/9781974709939",
+            "rating": "4.38",
+            "title": "Chainsaw Man, Vol. 1"
+        },
+        {
+            "author": "Gabrielle Zevin",
+            "number_of_ratings": "246602",
+            "price": "$37.08",
+            "product_url": "https://www.bookdepository.com/Tomorrow-Tomorrow-Tomorrow-Gabrielle-Zevin/9781784744649",
+            "rating": "4.29",
+            "title": "Tomorrow, and Tomorrow, and Tomorrow"
+        },
+        {
+            "author": "J. K. Rowling",
+            "number_of_ratings": "277394",
+            "price": "$118.45",
+            "product_url": "https://www.bookdepository.com/Harry-Potter-Box-Set-Complete-Collection-Childrens-Paperback-J-K-Rowling/9781408856772",
+            "rating": "4.74",
+            "title": "Harry Potter Box Set: The Complete Collection (Children's Paperback)"
+        },
+        {
+            "author": "Sarah J. Maas",
+            "number_of_ratings": "1397414",
+            "price": "$21.68",
+            "product_url": "https://www.bookdepository.com/Court-Thorns-Roses-Sarah-J-Maas/9781526605399",
+            "rating": "4.2",
+            "title": "A Court of Thorns and Roses"
+        },
+        {
+            "author": "Sarah J. Maas",
+            "number_of_ratings": "988462",
+            "price": "$21.19",
+            "product_url": "https://www.bookdepository.com/Throne-Glass-Sarah-J-Maas/9781408832332",
+            "rating": "4.19",
+            "title": "Throne of Glass"
+        },
+        {
+            "author": "Takehiko Inoue",
+            "number_of_ratings": "3559",
+            "price": "$40.08",
+            "product_url": "https://www.bookdepository.com/Vagabond-VIZBIG-Edition-Vol-1-Takehiko-Inoue/9781421520544",
+            "rating": "4.55",
+            "title": "Vagabond (VIZBIG Edition), Vol. 1"
+        },
+        {
+            "author": "Stephanie Garber",
+            "number_of_ratings": "92216",
+            "price": "$19.76",
+            "product_url": "https://www.bookdepository.com/Once-Upon-Broken-Heart-Stephanie-Garber/9781529380941",
+            "rating": "4.14",
+            "title": "Once Upon A Broken Heart"
+        },
+        {
+            "author": "Sarah J. Maas",
+            "number_of_ratings": "988462",
+            "price": "$21.19",
+            "product_url": "https://www.bookdepository.com/Throne-Glass-Sarah-J-Maas/9781408832332",
+            "rating": "4.19",
+            "title": "Throne of Glass"
+        },
+        {
+            "author": "Donna Tartt",
+            "number_of_ratings": "556185",
+            "price": "$25.75",
+            "product_url": "https://www.bookdepository.com/Secret-History-Donna-Tartt/9780140167771",
+            "rating": "4.17",
+            "title": "The Secret History"
+        },
+        {
+            "author": "J. R. R. Tolkien",
+            "number_of_ratings": "126575",
+            "price": "$82.98",
+            "product_url": "https://www.bookdepository.com/Hobbit-Lord-Rings-J-R-R-Tolkien/9780544445789",
+            "rating": "4.61",
+            "title": "The Hobbit and the Lord of the Rings"
+        },
+        {
+            "author": "Gege Akutami",
+            "number_of_ratings": "39495",
+            "price": "$17.96",
+            "product_url": "https://www.bookdepository.com/Jujutsu-Kaisen-0-Gege-Akutami/9781974720149",
+            "rating": "4.54",
+            "title": "Jujutsu Kaisen 0"
+        },
+        {
+            "author": "James Clear",
+            "number_of_ratings": "583451",
+            "price": "$31.24",
+            "product_url": "https://www.bookdepository.com/Atomic-Habits-James-Clear/9781847941831",
+            "rating": "4.38",
+            "title": "Atomic Habits"
+        },
+        {
+            "author": "Madeline Miller",
+            "number_of_ratings": "1122130",
+            "price": "$21.09",
+            "product_url": "https://www.bookdepository.com/Song-Achilles-Madeline-Miller/9781408891384",
+            "rating": "4.37",
+            "title": "The Song of Achilles"
+        },
+        {
+            "author": "Brandon Sanderson",
+            "number_of_ratings": "187422",
+            "price": "$18.78",
+            "product_url": "https://www.bookdepository.com/Alloy-Law-Brandon-Sanderson/9780575105836",
+            "rating": "4.21",
+            "title": "The Alloy of Law"
+        },
+        {
+            "author": "Tahereh Mafi",
+            "number_of_ratings": "624770",
+            "price": "$22.40",
+            "product_url": "https://www.bookdepository.com/Shatter-Me-Tahereh-Mafi/9780062085504",
+            "rating": "3.9",
+            "title": "Shatter Me"
+        },
+        {
+            "author": "Kentaro Miura",
+            "number_of_ratings": "6415",
+            "price": "$94.45",
+            "product_url": "https://www.bookdepository.com/Berserk-Deluxe-1-Kentaro-Miura/9781506711980",
+            "rating": "4.62",
+            "title": "Berserk Deluxe Volume 1"
+        },
+        {
+            "author": "Hirohiko Araki",
+            "number_of_ratings": "2890",
+            "price": "$36.01",
+            "product_url": "https://www.bookdepository.com/JoJos-Bizarre-Adventure-Hirohiko-Araki/9781421578828",
+            "rating": "4.35",
+            "title": "JoJo's Bizarre Adventure"
+        },
+        {
+            "author": "Chugong",
+            "number_of_ratings": "15262",
+            "price": "$34.20",
+            "product_url": "https://www.bookdepository.com/Solo-Leveling-Vol-1-manga-Chugong/9781975319434",
+            "rating": "4.5",
+            "title": "Solo Leveling, Vol. 1 (manga)"
+        },
+        {
+            "author": "Jonathan Stroud",
+            "number_of_ratings": "19009",
+            "price": "$19.27",
+            "product_url": "https://www.bookdepository.com/Lockwood-Co-Hollow-Boy-Jonathan-Stroud/9780552573146",
+            "rating": "4.38",
+            "title": "Lockwood & Co: The Hollow Boy"
+        },
+        {
+            "author": "Stephen King",
+            "number_of_ratings": "268231",
+            "price": "$20.17",
+            "product_url": "https://www.bookdepository.com/On-Writing-Stephen-King/9781444723250",
+            "rating": "4.33",
+            "title": "On Writing"
+        },
+        {
+            "author": "James Clear",
+            "number_of_ratings": "583451",
+            "price": "$31.24",
+            "product_url": "https://www.bookdepository.com/Atomic-Habits-James-Clear/9781847941831",
+            "rating": "4.38",
+            "title": "Atomic Habits"
+        },
+        {
+            "author": "Bonnie Garmus",
+            "number_of_ratings": "411689",
+            "price": "$21.52",
+            "product_url": "https://www.bookdepository.com/Lessons-Chemistry-Bonnie-Garmus/9781804990926",
+            "rating": "4.36",
+            "title": "Lessons in Chemistry"
+        },
+        {
+            "author": "Rick Rubin",
+            "number_of_ratings": "2421",
+            "price": "$40.46",
+            "product_url": "https://www.bookdepository.com/Creative-Act-Rick-Rubin/9781838858636",
+            "rating": "4.26",
+            "title": "The Creative Act"
+        },
+        {
+            "author": "Meng XI Shi",
+            "number_of_ratings": "67",
+            "price": "$28.73",
+            "product_url": "https://www.bookdepository.com/Thousand-Autumns-Qian-Qiu-Novel-Vol-1-Meng-XI-Shi/9781638589327",
+            "rating": "4.37",
+            "title": "Thousand Autumns: Qian Qiu (Novel) Vol. 1"
+        },
+        {
+            "author": "Taylor Jenkins Reid",
+            "number_of_ratings": "1997861",
+            "price": "$20.05",
+            "product_url": "https://www.bookdepository.com/Seven-Husbands-Evelyn-Hugo-Taylor-Jenkins-Reid/9781398515697",
+            "rating": "4.46",
+            "title": "Seven Husbands of Evelyn Hugo"
+        },
+        {
+            "author": "Lucy Score",
+            "number_of_ratings": "39238",
+            "price": "$21.68",
+            "product_url": "https://www.bookdepository.com/Things-We-Hide-From-Light-Lucy-Score/9781399713771",
+            "rating": "4.27",
+            "title": "Things We Hide From The Light"
+        },
+        {
+            "author": "Bessel van der Kolk",
+            "number_of_ratings": "124470",
+            "price": "$26.96",
+            "product_url": "https://www.bookdepository.com/Body-Keeps-Score-Bessel-van-der-Kolk/9780141978611",
+            "rating": "4.45",
+            "title": "The Body Keeps the Score"
+        },
+        {
+            "author": "Toshikazu Kawaguchi",
+            "number_of_ratings": "220207",
+            "price": "$19.15",
+            "product_url": "https://www.bookdepository.com/Before-Coffee-Gets-Cold-Toshikazu-Kawaguchi/9781529029581",
+            "rating": "3.74",
+            "title": "Before the Coffee Gets Cold"
+        },
+        {
+            "author": "Colleen Hoover",
+            "number_of_ratings": "2290192",
+            "price": "$19.78",
+            "product_url": "https://www.bookdepository.com/It-Ends-With-Us-most-heartbreaking-novel-youll-ever-read-Colleen-Hoover/9781471156267",
+            "rating": "4.29",
+            "title": "It Ends With Us: The most heartbreaking novel you'll ever read"
+        },
+        {
+            "author": "Sheena Patel",
+            "number_of_ratings": "1010",
+            "price": "$17.78",
+            "product_url": "https://www.bookdepository.com/Im-Fan-Sheena-Patel/9781783789818",
+            "rating": "3.77",
+            "title": "I'm a Fan"
+        },
+        {
+            "author": "Isabella Dorta",
+            "number_of_ratings": "1",
+            "price": "$25.21",
+            "product_url": "https://www.bookdepository.com/Letters-I-Will-Never-Send-Isabella-Dorta/9781529901061",
+            "rating": "5",
+            "title": "The Letters I Will Never Send"
+        },
+        {
+            "author": "Claire Keegan",
+            "number_of_ratings": "24165",
+            "price": "$16.37",
+            "product_url": "https://www.bookdepository.com/Foster-Claire-Keegan/9780571379149",
+            "rating": "4.34",
+            "title": "Foster"
+        },
+        {
+            "author": "Lucy Score",
+            "number_of_ratings": "341303",
+            "price": "$20.78",
+            "product_url": "https://www.bookdepository.com/Things-We-Never-Got-Over-Lucy-Score/9781399713740",
+            "rating": "4.26",
+            "title": "Things We Never Got Over"
+        },
+        {
+            "author": "Taylor Jenkins Reid",
+            "number_of_ratings": "964371",
+            "price": "$22.29",
+            "product_url": "https://www.bookdepository.com/Daisy-Jones-Six-Taylor-Jenkins-Reid/9781787462144",
+            "rating": "4.24",
+            "title": "Daisy Jones and The Six"
+        },
+        {
+            "author": "Charlie Mackesy",
+            "number_of_ratings": "148104",
+            "price": "$33.88",
+            "product_url": "https://www.bookdepository.com/Boy-Mole-Fox-Horse-Charlie-Mackesy/9781529105100",
+            "rating": "4.56",
+            "title": "The Boy, The Mole, The Fox and The Horse"
+        },
+        {
+            "author": "Mo Xiang Tong Xiu",
+            "number_of_ratings": "517",
+            "price": "$27.33",
+            "product_url": "https://www.bookdepository.com/Grandmaster-Demonic-Cultivation-Mo-Dao-Zu-Shi-Manhua-Vol-1-Mo-Xiang-Tong-Xiu/9781638585237",
+            "rating": "4.46",
+            "title": "Grandmaster of Demonic Cultivation: Mo Dao Zu Shi (Manhua) Vol. 1"
+        },
+        {
+            "author": "Hannah Grace",
+            "number_of_ratings": "149636",
+            "price": "$20.60",
+            "product_url": "https://www.bookdepository.com/Icebreaker-Hannah-Grace/9781398525689",
+            "rating": "4.12",
+            "title": "Icebreaker"
+        },
+        {
+            "author": "Morgan Housel",
+            "number_of_ratings": "103681",
+            "price": "$25.65",
+            "product_url": "https://www.bookdepository.com/Psychology-Money-Morgan-Housel/9780857197689",
+            "rating": "4.38",
+            "title": "The Psychology of Money"
+        },
+        {
+            "author": "Claire Keegan",
+            "number_of_ratings": "61952",
+            "price": "$17.30",
+            "product_url": "https://www.bookdepository.com/Small-Things-Like-These-Claire-Keegan/9780571368709",
+            "rating": "4.21",
+            "title": "Small Things Like These"
+        },
+        {
+            "author": "Lauren Asher",
+            "number_of_ratings": "58207",
+            "price": "$22.84",
+            "product_url": "https://www.bookdepository.com/Final-Offer-Lauren-Asher/9780349433479",
+            "rating": "4.36",
+            "title": "Final Offer"
+        },
+        {
+            "author": "Bonnie Garmus",
+            "number_of_ratings": "411689",
+            "price": "$21.52",
+            "product_url": "https://www.bookdepository.com/Lessons-Chemistry-Bonnie-Garmus/9781804990926",
+            "rating": "4.36",
+            "title": "Lessons in Chemistry"
+        },
+        {
+            "author": "Lucy Score",
+            "number_of_ratings": "39238",
+            "price": "$21.68",
+            "product_url": "https://www.bookdepository.com/Things-We-Hide-From-Light-Lucy-Score/9781399713771",
+            "rating": "4.27",
+            "title": "Things We Hide From The Light"
+        },
+        {
+            "author": "Sheena Patel",
+            "number_of_ratings": "1010",
+            "price": "$17.78",
+            "product_url": "https://www.bookdepository.com/Im-Fan-Sheena-Patel/9781783789818",
+            "rating": "3.77",
+            "title": "I'm a Fan"
+        },
+        {
+            "author": "Mo Xiang Tong Xiu",
+            "number_of_ratings": "517",
+            "price": "$27.33",
+            "product_url": "https://www.bookdepository.com/Grandmaster-Demonic-Cultivation-Mo-Dao-Zu-Shi-Manhua-Vol-1-Mo-Xiang-Tong-Xiu/9781638585237",
+            "rating": "4.46",
+            "title": "Grandmaster of Demonic Cultivation: Mo Dao Zu Shi (Manhua) Vol. 1"
+        },
+        {
+            "author": "Toni Lodge",
+            "number_of_ratings": "118",
+            "price": "$36.37",
+            "product_url": "https://www.bookdepository.com/I-Dont-Need-Therapy-Toni-Lodge/9781761067693",
+            "rating": "4.5",
+            "title": "I Don't Need Therapy"
+        },
+        {
+            "author": "Coco Mellors",
+            "number_of_ratings": "28934",
+            "price": "$23.35",
+            "product_url": "https://www.bookdepository.com/Cleopatra-Frankenstein-Coco-Mellors/9780008421793",
+            "rating": "3.94",
+            "title": "Cleopatra and Frankenstein"
+        },
+        {
+            "author": "Liz Nugent",
+            "number_of_ratings": "711",
+            "price": "$33.93",
+            "product_url": "https://www.bookdepository.com/Strange-Sally-Diamond-Liz-Nugent/9781844885961",
+            "rating": "4.55",
+            "title": "Strange Sally Diamond"
+        },
+        {
+            "author": "Margaret Atwood",
+            "number_of_ratings": "141",
+            "price": "$37.24",
+            "product_url": "https://www.bookdepository.com/Old-Babes-Wood-Margaret-Atwood/9781784744854",
+            "rating": "3.85",
+            "title": "Old Babes in the Wood"
+        },
+        {
+            "author": "Richard Pink",
+            "number_of_ratings": "274",
+            "price": "$23.42",
+            "product_url": "https://www.bookdepository.com/Dirty-Laundry-Richard-Pink/9781529915402",
+            "rating": "4.57",
+            "title": "Dirty Laundry"
+        },
+        {
+            "author": "Fern Brady",
+            "number_of_ratings": "1287",
+            "price": "$28.17",
+            "product_url": "https://www.bookdepository.com/Strong-Female-Character-Fern-Brady/9781914240447",
+            "rating": "4.77",
+            "title": "Strong Female Character"
+        },
+        {
+            "author": "Eleanor Catton",
+            "number_of_ratings": "438",
+            "price": "$35.69",
+            "product_url": "https://www.bookdepository.com/Birnam-Wood-Eleanor-Catton/9781783784271",
+            "rating": "3.98",
+            "title": "Birnam Wood"
+        },
+        {
+            "author": "Mary Harrington",
+            "number_of_ratings": "12",
+            "price": "$30.26",
+            "product_url": "https://www.bookdepository.com/Feminism-Against-Progress-Mary-Harrington/9781800752023",
+            "rating": "4.42",
+            "title": "Feminism Against Progress"
+        },
+        {
+            "author": "Lewis Howes",
+            "number_of_ratings": "58",
+            "price": "$35.32",
+            "product_url": "https://www.bookdepository.com/Greatness-Mindset-Lewis-Howes/9781401971908",
+            "rating": "4.93",
+            "title": "The Greatness Mindset"
+        },
+        {
+            "author": "Alice Vincent",
+            "number_of_ratings": "13",
+            "price": "$32.74",
+            "product_url": "https://www.bookdepository.com/Why-Women-Grow-Alice-Vincent/9781838855437",
+            "rating": "4.08",
+            "title": "Why Women Grow"
+        },
+        {
+            "author": "Hannah Barnes",
+            "number_of_ratings": "113",
+            "price": "$39.59",
+            "product_url": "https://www.bookdepository.com/Time-Think-Hannah-Barnes/9781800751118",
+            "rating": "4.7",
+            "title": "Time to Think"
+        },
+        {
+            "author": "Samantha Shannon",
+            "number_of_ratings": "443",
+            "price": "$45.79",
+            "product_url": "https://www.bookdepository.com/Day-Fallen-Night-Samantha-Shannon/9781526619792",
+            "rating": "4.6",
+            "title": "A Day of Fallen Night"
+        },
+        {
+            "author": "Shannon Chakraborty",
+            "number_of_ratings": "1390",
+            "price": "$36.97",
+            "product_url": "https://www.bookdepository.com/Adventures-Amina-Al-Sirafi-Shannon-Chakraborty/9780062963505",
+            "rating": "4.48",
+            "title": "The Adventures of Amina Al-Sirafi"
+        },
+        {
+            "author": "Axie Oh",
+            "number_of_ratings": "33947",
+            "price": "$18.19",
+            "product_url": "https://www.bookdepository.com/Girl-Who-Fell-Beneath-Sea-Axie-Oh/9781529391732",
+            "rating": "4.16",
+            "title": "The Girl Who Fell Beneath the Sea"
+        },
+        {
+            "author": "Colleen Hoover",
+            "number_of_ratings": "92100",
+            "price": "$20.31",
+            "product_url": "https://www.bookdepository.com/Never-Never-Colleen-Hoover/9780008620486",
+            "rating": "4",
+            "title": "Never Never"
+        },
+        {
+            "author": "Kami Garcia",
+            "number_of_ratings": "313",
+            "price": "$30.06",
+            "product_url": "https://www.bookdepository.com/Teen-Titans-Robin-Kami-Garcia/9781779512246",
+            "rating": "4.24",
+            "title": "Teen Titans: Robin"
+        },
+        {
+            "author": "Shannon Chakraborty",
+            "number_of_ratings": "1295",
+            "price": "$40.97",
+            "product_url": "https://www.bookdepository.com/Adventures-Amina-Al-Sirafi-Shannon-Chakraborty/9780008381349",
+            "rating": "4.48",
+            "title": "The Adventures of Amina Al-Sirafi"
+        },
+        {
+            "author": "Katherine May",
+            "number_of_ratings": "284",
+            "price": "$29.71",
+            "product_url": "https://www.bookdepository.com/Enchantment-Katherine-May/9780571378333",
+            "rating": "4.03",
+            "title": "Enchantment"
+        },
+        {
+            "author": "Anatoly Kuznetsov",
+            "number_of_ratings": "1571",
+            "price": "$32.38",
+            "product_url": "https://www.bookdepository.com/Babi-Yar-Anatoly-Kuznetsov/9781250883834",
+            "rating": "4.32",
+            "title": "Babi Yar"
+        },
+        {
+            "author": "Shou Harusono",
+            "number_of_ratings": "1229",
+            "price": "$19.79",
+            "product_url": "https://www.bookdepository.com/Sasaki-Miyano-Vol-7-Shou-Harusono/9781975341947",
+            "rating": "4.64",
+            "title": "Sasaki and Miyano, Vol. 7"
+        },
+        {
+            "author": "Victoria Smith",
+            "number_of_ratings": "15",
+            "price": "$33.88",
+            "product_url": "https://www.bookdepository.com/Hags-Victoria-Smith/9780349726960",
+            "rating": "3.93",
+            "title": "Hags"
+        },
+        {
+            "author": "Alice Winn",
+            "number_of_ratings": "214",
+            "price": "$31.64",
+            "product_url": "https://www.bookdepository.com/Memoriam-Alice-Winn/9780241567821",
+            "rating": "4.68",
+            "title": "In Memoriam"
+        },
+        {
+            "author": "Hayley Morris",
+            "number_of_ratings": "263",
+            "price": "$34.03",
+            "product_url": "https://www.bookdepository.com/Me-vs-Brain-Hayley-Morris/9781529196047",
+            "rating": "4.43",
+            "title": "Me vs Brain"
+        },
+        {
+            "author": "Mo Xiang Tong Xiu;",
+            "number_of_ratings": "718",
+            "price": "$26.99",
+            "product_url": "https://www.bookdepository.com/Grandmaster-Demonic-Cultivation-Mo-Dao-Zu-Shi-Novel-Vol-5-Special-Edition-Mo-Xiang-Tong-Xiu/9781685798406",
+            "rating": "4.69",
+            "title": "Grandmaster of Demonic Cultivation: Mo Dao Zu Shi (Novel) Vol. 5 (Special Edition)"
+        },
+        {
+            "author": "Peter Attia",
+            "number_of_ratings": "1",
+            "price": "$32.93",
+            "product_url": "https://www.bookdepository.com/Outlive-Peter-Attia/9781785044540",
+            "rating": "4",
+            "title": "Outlive"
+        },
+        {
+            "author": "Elsie Silver",
+            "number_of_ratings": "29522",
+            "price": "$17.52",
+            "product_url": "https://www.bookdepository.com/Heartless-Elsie-Silver/9780349437682",
+            "rating": "4.44",
+            "title": "Heartless"
+        },
+        {
+            "author": "Elsie Silver",
+            "number_of_ratings": "31599",
+            "price": "$16.75",
+            "product_url": "https://www.bookdepository.com/Flawless-Elsie-Silver/9780349437675",
+            "rating": "4.23",
+            "title": "Flawless"
+        },
+        {
+            "author": "Elsie Silver",
+            "number_of_ratings": "6120",
+            "price": "$17.91",
+            "product_url": "https://www.bookdepository.com/Powerless-Elsie-Silver/9780349437705",
+            "rating": "4.45",
+            "title": "Powerless"
+        },
+        {
+            "author": "Future Press",
+            "number_of_ratings": "3",
+            "price": "$48.22",
+            "product_url": "https://www.bookdepository.com/Elden-Ring-Official-Strategy-Guide-Vol-2-Shards-Shattering-Future-Press/9783869931197",
+            "rating": "4.67",
+            "title": "Elden Ring Official Strategy Guide, Vol. 2 : Shards of the Shattering"
+        },
+        {
+            "author": "Brenna Nation",
+            "number_of_ratings": "101",
+            "price": "$21.56",
+            "product_url": "https://www.bookdepository.com/Shattered-Lands-Brenna-Nation/9780241645260",
+            "rating": "4.65",
+            "title": "The Shattered Lands"
+        },
+        {
+            "author": "Rou Bao Bu Chi Rou",
+            "number_of_ratings": "14",
+            "price": "$27.57",
+            "product_url": "https://www.bookdepository.com/Remnants-Filth-Yuwu-Novel-Vol-1-Rou-Bao-Bu-Chi-Rou/9781685794675",
+            "rating": "4.64",
+            "title": "Remnants of Filth: Yuwu (Novel) Vol. 1"
+        },
+        {
+            "author": "Toshikazu Kawaguchi",
+            "number_of_ratings": "220207",
+            "price": "$19.15",
+            "product_url": "https://www.bookdepository.com/Before-Coffee-Gets-Cold-Toshikazu-Kawaguchi/9781529029581",
+            "rating": "3.74",
+            "title": "Before the Coffee Gets Cold"
+        },
+        {
+            "author": "Charlie Mackesy",
+            "number_of_ratings": "148104",
+            "price": "$33.88",
+            "product_url": "https://www.bookdepository.com/Boy-Mole-Fox-Horse-Charlie-Mackesy/9781529105100",
+            "rating": "4.56",
+            "title": "The Boy, The Mole, The Fox and The Horse"
+        },
+        {
+            "author": "Patrice Karst",
+            "number_of_ratings": "2698",
+            "price": "$17.26",
+            "product_url": "https://www.bookdepository.com/Invisible-String-Patrice-Karst/9780316486231",
+            "rating": "4.48",
+            "title": "The Invisible String"
+        },
+        {
+            "author": "Jordan B. Peterson",
+            "number_of_ratings": "186263",
+            "price": "$23.69",
+            "product_url": "https://www.bookdepository.com/12-Rules-for-Life-Jordan-B-Peterson/9780141988511",
+            "rating": "3.93",
+            "title": "12 Rules for Life"
+        },
+        {
+            "author": "Stephanie Garber",
+            "number_of_ratings": "92216",
+            "price": "$19.76",
+            "product_url": "https://www.bookdepository.com/Once-Upon-Broken-Heart-Stephanie-Garber/9781529380941",
+            "rating": "4.14",
+            "title": "Once Upon A Broken Heart"
+        },
+        {
+            "author": "Laura Nowlin",
+            "number_of_ratings": "66405",
+            "price": "$21.98",
+            "product_url": "https://www.bookdepository.com/If-He-Had-Been-with-Me-Laura-Nowlin/9781728205489",
+            "rating": "4",
+            "title": "If He Had Been with Me"
+        },
+        {
+            "author": "J. K. Rowling",
+            "number_of_ratings": "277394",
+            "price": "$118.45",
+            "product_url": "https://www.bookdepository.com/Harry-Potter-Box-Set-Complete-Collection-Childrens-Paperback-J-K-Rowling/9781408856772",
+            "rating": "4.74",
+            "title": "Harry Potter Box Set: The Complete Collection (Children's Paperback)"
+        },
+        {
+            "author": "M. L. Rio",
+            "number_of_ratings": "154719",
+            "price": "$21.68",
+            "product_url": "https://www.bookdepository.com/If-We-Were-Villains-Sensational-TikTok-Book-Club-pick-M-L-Rio/9781785656477",
+            "rating": "4.23",
+            "title": "If We Were Villains: The Sensational TikTok Book Club pick"
+        },
+        {
+            "author": "Sarah J. Maas",
+            "number_of_ratings": "1397414",
+            "price": "$21.68",
+            "product_url": "https://www.bookdepository.com/Court-Thorns-Roses-Sarah-J-Maas/9781526605399",
+            "rating": "4.2",
+            "title": "A Court of Thorns and Roses"
+        },
+        {
+            "author": "Holly Jackson",
+            "number_of_ratings": "553033",
+            "price": "$21.30",
+            "product_url": "https://www.bookdepository.com/Good-Girls-Guide-Murder-Holly-Jackson/9781405293181",
+            "rating": "4.35",
+            "title": "A Good Girl's Guide to Murder"
+        },
+        {
+            "author": "Leigh Bardugo",
+            "number_of_ratings": "772260",
+            "price": "$36.90",
+            "product_url": "https://www.bookdepository.com/Six-Crows-Collectors-Edition-Leigh-Bardugo/9781510106284",
+            "rating": "4.49",
+            "title": "Six of Crows: Collector's Edition"
+        },
+        {
+            "author": "Eric Carle",
+            "number_of_ratings": "477184",
+            "price": "$18.75",
+            "product_url": "https://www.bookdepository.com/Very-Hungry-Caterpillar-Eric-Carle/9780241003008",
+            "rating": "4.32",
+            "title": "The Very Hungry Caterpillar"
+        },
+        {
+            "author": "Lynn Painter",
+            "number_of_ratings": "117886",
+            "price": "$22.48",
+            "product_url": "https://www.bookdepository.com/Better-Than-Movies-Lynn-Painter/9781534467637",
+            "rating": "4.3",
+            "title": "Better Than the Movies"
+        },
+        {
+            "author": "Leigh Bardugo",
+            "number_of_ratings": "520180",
+            "price": "$35.96",
+            "product_url": "https://www.bookdepository.com/Crooked-Kingdom-Collectors-Edition-Leigh-Bardugo/9781510107038",
+            "rating": "4.61",
+            "title": "Crooked Kingdom Collector's Edition"
+        },
+        {
+            "author": "Duopress Labs",
+            "number_of_ratings": "7",
+            "price": "$17.90",
+            "product_url": "https://www.bookdepository.com/TummyTime-R-Happy-Baby-Duopress-Labs/9781947458796",
+            "rating": "3.71",
+            "title": "TummyTime (R): Happy Baby"
+        },
+        {
+            "author": "Axie Oh",
+            "number_of_ratings": "33947",
+            "price": "$18.19",
+            "product_url": "https://www.bookdepository.com/Girl-Who-Fell-Beneath-Sea-Axie-Oh/9781529391732",
+            "rating": "4.16",
+            "title": "The Girl Who Fell Beneath the Sea"
+        },
+        {
+            "author": "Eric Hill",
+            "number_of_ratings": "19025",
+            "price": "$16.19",
+            "product_url": "https://www.bookdepository.com/Wheres-Spot-Eric-Hill/9780723263661",
+            "rating": "4.13",
+            "title": "Where's Spot?"
+        },
+        {
+            "author": "Kami Garcia",
+            "number_of_ratings": "313",
+            "price": "$30.06",
+            "product_url": "https://www.bookdepository.com/Teen-Titans-Robin-Kami-Garcia/9781779512246",
+            "rating": "4.24",
+            "title": "Teen Titans: Robin"
+        },
+        {
+            "author": "Stephanie Garber",
+            "number_of_ratings": "47189",
+            "price": "$33.74",
+            "product_url": "https://www.bookdepository.com/Ballad-Never-After-Stephanie-Garber/9781529380965",
+            "rating": "4.56",
+            "title": "The Ballad of Never After"
+        },
+        {
+            "author": "Judith Kerr",
+            "number_of_ratings": "16133",
+            "price": "$14.08",
+            "product_url": "https://www.bookdepository.com/Tiger-Who-Came-Tea-Judith-Kerr/9780007215997",
+            "rating": "4.25",
+            "title": "The Tiger Who Came to Tea"
+        },
+        {
+            "author": "Toshikazu Kawaguchi",
+            "number_of_ratings": "34572",
+            "price": "$18.88",
+            "product_url": "https://www.bookdepository.com/Tales-from-Cafe-Toshikazu-Kawaguchi/9781529050868",
+            "rating": "4",
+            "title": "Tales from the Cafe"
+        },
+        {
+            "author": "Jennifer Lynn Barnes",
+            "number_of_ratings": "401582",
+            "price": "$21.98",
+            "product_url": "https://www.bookdepository.com/Inheritance-Games-Jennifer-Lynn-Barnes/9780759555402",
+            "rating": "4.22",
+            "title": "The Inheritance Games"
+        },
+        {
+            "author": "Jennifer Barnes",
+            "number_of_ratings": "127898",
+            "price": "$24.64",
+            "product_url": "https://www.bookdepository.com/Final-Gambit-Jennifer-Barnes/9780316466301",
+            "rating": "4.18",
+            "title": "The Final Gambit"
+        },
+        {
+            "author": "Hannah Gold",
+            "number_of_ratings": "3148",
+            "price": "$19.27",
+            "product_url": "https://www.bookdepository.com/Last-Bear-Hannah-Gold/9780008411312",
+            "rating": "4.32",
+            "title": "The Last Bear"
+        },
+        {
+            "author": "Chris Grabenstein",
+            "number_of_ratings": "52784",
+            "price": "$17.98",
+            "product_url": "https://www.bookdepository.com/Escape-from-Mr-Lemoncellos-Library-Chris-Grabenstein/9780307931474",
+            "rating": "4.13",
+            "title": "Escape from Mr. Lemoncello's Library"
+        },
+        {
+            "author": "Yomu Mishima",
+            "number_of_ratings": "462",
+            "price": "$27.98",
+            "product_url": "https://www.bookdepository.com/Trapped-Dating-Sim-World-Otome-Games-is-Tough-for-Mobs-Light-Novel-Vol-2-Yomu-Mishima/9781648271977",
+            "rating": "4.41",
+            "title": "Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs (Light Novel) Vol. 2"
+        },
+        {
+            "author": "Julia Donaldson",
+            "number_of_ratings": "2194",
+            "price": "$18.13",
+            "product_url": "https://www.bookdepository.com/Tabby-McTat-Julia-Donaldson/9781407170701",
+            "rating": "4.11",
+            "title": "Tabby McTat"
+        },
+        {
+            "author": "Carol McCloud",
+            "number_of_ratings": "5434",
+            "price": "$18.26",
+            "product_url": "https://www.bookdepository.com/Have-You-Filled-Bucket-Today-Carol-McCloud/9780996099936",
+            "rating": "4.41",
+            "title": "Have You Filled A Bucket Today?"
+        },
+        {
+            "author": "Chanie Apfelbaum",
+            "number_of_ratings": "1",
+            "price": "$65.62",
+            "product_url": "https://www.bookdepository.com/Totally-Kosher-Chanie-Apfelbaum/9780593232613",
+            "rating": "5",
+            "title": "Totally Kosher"
+        },
+        {
+            "author": "Nathan Anthony",
+            "number_of_ratings": "20",
+            "price": "$40.43",
+            "product_url": "https://www.bookdepository.com/Bored-Lunch-Healthy-Slow-Cooker-Book-Nathan-Anthony/9781529903546",
+            "rating": "4.35",
+            "title": "Bored of Lunch: The Healthy Slow Cooker Book"
+        },
+        {
+            "author": "Nat's What I Reckon",
+            "number_of_ratings": "70",
+            "price": "$30.85",
+            "product_url": "https://www.bookdepository.com/Death-Jar-Sauce-Nats-What-I-Reckon/9781761045820",
+            "rating": "4.46",
+            "title": "Death to Jar Sauce"
+        },
+        {
+            "author": "Jessie Inchauspe",
+            "number_of_ratings": "6",
+            "price": "$35.64",
+            "product_url": "https://www.bookdepository.com/Glucose-Goddess-Method-Jessie-Inchauspe/9781668024522",
+            "rating": "4",
+            "title": "Glucose Goddess Method"
+        },
+        {
+            "author": "Will Guidara",
+            "number_of_ratings": "1147",
+            "price": "$41.24",
+            "product_url": "https://www.bookdepository.com/Unreasonable-Hospitality-Will-Guidara/9780593418574",
+            "rating": "4.53",
+            "title": "Unreasonable Hospitality"
+        },
+        {
+            "author": "Pailin Chongchitnant",
+            "number_of_ratings": "1",
+            "price": "$60.00",
+            "product_url": "https://www.bookdepository.com/Sabai-Pailin-Chongchitnant/9780525611714",
+            "rating": "5",
+            "title": "Sabai"
+        },
+        {
+            "author": "James Read",
+            "number_of_ratings": "1",
+            "price": "$39.43",
+            "product_url": "https://www.bookdepository.com/Cabbages-Kimchi-James-Read/9780241455005",
+            "rating": "5",
+            "title": "Of Cabbages and Kimchi"
+        },
+        {
+            "author": "James Hoffmann",
+            "number_of_ratings": "662",
+            "price": "$32.35",
+            "product_url": "https://www.bookdepository.com/How-make-best-coffee-at-home-James-Hoffmann/9781784727246",
+            "rating": "4.42",
+            "title": "How to make the best coffee at home"
+        },
+        {
+            "author": "Nathan Anthony",
+            "number_of_ratings": "2",
+            "price": "$40.38",
+            "product_url": "https://www.bookdepository.com/Bored-Lunch-Healthy-Air-Fryer-Book-Nathan-Anthony/9781529903522",
+            "rating": "5",
+            "title": "Bored of Lunch: The Healthy Air Fryer Book"
+        },
+        {
+            "author": "Allen Carr",
+            "number_of_ratings": "13617",
+            "price": "$20.77",
+            "product_url": "https://www.bookdepository.com/Allen-Carrs-Easy-Way-Stop-Smoking-Allen-Carr/9781405923316",
+            "rating": "4.25",
+            "title": "Allen Carr's Easy Way to Stop Smoking"
+        },
+        {
+            "author": "Anthony William",
+            "number_of_ratings": "2044",
+            "price": "$73.34",
+            "product_url": "https://www.bookdepository.com/Medical-Medium-Liver-Rescue-Anthony-William/9781401954406",
+            "rating": "4.13",
+            "title": "Medical Medium Liver Rescue"
+        },
+        {
+            "author": "Carleigh Bodrug",
+            "number_of_ratings": "504",
+            "price": "$53.70",
+            "product_url": "https://www.bookdepository.com/PlantYou-Carleigh-Bodrug/9780306923043",
+            "rating": "4.46",
+            "title": "PlantYou"
+        },
+        {
+            "author": "Stanley Tucci",
+            "number_of_ratings": "52304",
+            "price": "$21.24",
+            "product_url": "https://www.bookdepository.com/Taste-Stanley-Tucci/9780241501009",
+            "rating": "4.23",
+            "title": "Taste"
+        },
+        {
+            "author": "Tim Spector",
+            "number_of_ratings": "19",
+            "price": "$44.88",
+            "product_url": "https://www.bookdepository.com/Food-for-Life-Tim-Spector/9781787330498",
+            "rating": "4.21",
+            "title": "Food for Life"
+        },
+        {
+            "author": "Yotam Ottolenghi",
+            "number_of_ratings": "8012",
+            "price": "$66.47",
+            "product_url": "https://www.bookdepository.com/Ottolenghi-SIMPLE-Yotam-Ottolenghi/9781785031168",
+            "rating": "4.29",
+            "title": "Ottolenghi SIMPLE"
+        },
+        {
+            "author": "Txema Salvans",
+            "number_of_ratings": "2",
+            "price": "$136.15",
+            "product_url": "https://www.bookdepository.com/Waiting-Game-Txema-Salvans/9786078295050",
+            "rating": "5",
+            "title": "The Waiting Game"
+        },
+        {
+            "author": "Elena G. Gonz\u00e1lez",
+            "number_of_ratings": "2",
+            "price": "$61.10",
+            "product_url": "https://www.bookdepository.com/Colega-Elena-G-Gonz\u00e1lez/9788477116721",
+            "rating": "3",
+            "title": "Colega"
+        },
+        {
+            "author": "MAAS, SARAH J.",
+            "number_of_ratings": "463333",
+            "price": "$35.90",
+            "product_url": "https://www.bookdepository.com/Reina-de-sombras-MAAS-SARAH-J/9786073152464",
+            "rating": "4.56",
+            "title": "Reina de sombras"
+        },
+        {
+            "author": "Brandon Sanderson",
+            "number_of_ratings": "49329",
+            "price": "$65.77",
+            "product_url": "https://www.bookdepository.com/Trilog\u00eda-Nacidos-de-la-Bruma-Mistborn-pack-con-El-imperio-final-El-pozo-de-la-Ascensi\u00f3n-El-h\u00e9roe-de-las-Eras-Brandon-Sanderson/9788413143187",
+            "rating": "4.59",
+            "title": "Trilog\u00eda Nacidos de la Bruma [Mistborn] (pack con: El imperio final | El pozo de la Ascensi\u00f3n | El h\u00e9roe de las Eras)"
+        },
+        {
+            "author": "Miguel Ruiz",
+            "number_of_ratings": "328867",
+            "price": "$25.25",
+            "product_url": "https://www.bookdepository.com/Los-Cuatro-Acuerdos-Miguel-Ruiz/9788479532536",
+            "rating": "4.18",
+            "title": "Los Cuatro Acuerdos"
+        },
+        {
+            "author": "Marian Rojas",
+            "number_of_ratings": "6034",
+            "price": "$31.70",
+            "product_url": "https://www.bookdepository.com/Como-Hacer-Que-Te-Pasen-Cosas-Buenas-Marian-Rojas/9786070756924",
+            "rating": "4.13",
+            "title": "Como Hacer Que Te Pasen Cosas Buenas"
+        },
+        {
+            "author": "Tatsuki Fujimoto",
+            "number_of_ratings": "2342",
+            "price": "$25.24",
+            "product_url": "https://www.bookdepository.com/CHAINSAW-MAN-12-Tatsuki-Fujimoto/9788467959741",
+            "rating": "4.34",
+            "title": "CHAINSAW MAN 12"
+        },
+        {
+            "author": "MO XIANG TONG XIU",
+            "number_of_ratings": "167",
+            "price": "$39.86",
+            "product_url": "https://www.bookdepository.com/GRANDMASTER-DEMONIC-CULTIVATION-02-MO-DAO-ZU-SHI-MO-XIANG-TONG-XIU/9788467958416",
+            "rating": "4.66",
+            "title": "GRANDMASTER OF DEMONIC CULTIVATION 02 (MO DAO ZU SHI)."
+        },
+        {
+            "author": "Brandon Sanderson",
+            "number_of_ratings": "12",
+            "price": "$27.36",
+            "product_url": "https://www.bookdepository.com/Novela-Secreta-2-Brandon-Sanderson/9788418037900",
+            "rating": "4",
+            "title": "Novela Secreta 2"
+        },
+        {
+            "author": "Elvia Ardalani",
+            "number_of_ratings": "3",
+            "price": "$46.23",
+            "product_url": "https://www.bookdepository.com/Pelo-de-Gato-Elvia-Ardalani/9788412407846",
+            "rating": "5",
+            "title": "Pelo de Gato"
+        },
+        {
+            "author": "Frank Su\u00e1rez",
+            "number_of_ratings": "63",
+            "price": "$33.93",
+            "product_url": "https://www.bookdepository.com/Diabetes-sin-problemas-El-control-de-la-diabetes-con-la-ayuda-del-poder-del-metabolismo-Frank-Su\u00e1rez/9780988221864",
+            "rating": "4.43",
+            "title": "Diabetes sin problemas. El control de la diabetes con la ayuda del poder del metabolismo"
+        },
+        {
+            "author": "Nbla-Nueva Biblia de Las Am\u00e9ricas",
+            "number_of_ratings": "3",
+            "price": "$63.53",
+            "product_url": "https://www.bookdepository.com/Biblia-Ultrafina-Nbla-Letra-Gigante-Leathersoft-Negro-Letra-Roja-Spanish-Ultrathin-Holy-Bible-Nbla-Gp-Leathersoft-Black-Letter-Edition-Nbla-Nueva-Biblia-de-Las-Am\u00e9ricas/9780829770155",
+            "rating": "5",
+            "title": "Biblia Ultrafina, Nbla, Letra Gigante, Leathersoft, Negro, Letra Roja / Spanish Ultrathin Holy Bible, Nbla, Gp, Leathersoft, Black, Letter Edition"
+        }
+    ],
+    "number_of_books": 135
+}
