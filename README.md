@@ -4,7 +4,7 @@ This is a simple Python web scraper that can be used to extract data from websit
 
 ## Installation
 
-1. **Virtual Environment** - This keeps your dependencies for each project separate and organized. <br>
+1. **Virtual Environment** - This keeps your dependencies for each project separate and organized.
 If you've not already installed virtualenv
 ```
 pip install virtualenv
@@ -36,7 +36,7 @@ The program scrapes the following information for each book:
 - Price
 - Average Rating
 - Number of Ratings
-- Product URL <br>
+- Product url 
 
 Once the book information is scraped, it is saved to a [CSV file](./book_info.csv) using the csv library and also to a [json file](./book_info.json) using the json library.
 
@@ -67,7 +67,8 @@ print(title)
 This will output the title of the webpage.
 
 ## Run the application
-To run the application, run the following command from your activated virtual environment: <br>
+To run the application, run the following command from your activated virtual environment:
+
 For Mac/Linux
 ```
 python3 scraper.py
